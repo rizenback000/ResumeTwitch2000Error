@@ -1,2 +1,5 @@
 # ResumeTwitch2000Error
-resume twitch 2000 error
+twitchでコンセントが抜けた時に再接続するスクリプト。もっといい方法があるはずだ。
+
+# License
+MIT
